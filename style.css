@@ -1,0 +1,25 @@
+.container {
+	width: 800px;
+	height: 800px;
+	padding: 15px;
+	margin: 15px;
+}
+
+.green{
+	background-color:green;
+	height: 100px;
+	
+}
+
+.red{
+	background-color:red;
+	height: 100px;
+	
+}
+
+
+.white{
+	background-color:white;
+	height: 100px;
+	
+}
